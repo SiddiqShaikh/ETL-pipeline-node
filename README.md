@@ -44,7 +44,6 @@ npm test
 ## ETL Pipeline
 
 The ETL pipeline runs automatically:
-- On application startup
 - Daily at midnight (scheduled via node-cron)
 
 To run the ETL pipeline manually:
